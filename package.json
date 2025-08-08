@@ -27,11 +27,11 @@
     "typescript",
     "real-time"
   ],
-  "author": "Your Name",
+  "author": "Husnain Izhar",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/vadscore.git"
+    "url": "https://github.com/husnainizhar/vadscore.git"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
